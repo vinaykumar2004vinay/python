@@ -1,3 +1,0 @@
-"# python" 
-"# git"
-"# python" 
